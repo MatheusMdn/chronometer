@@ -1,4 +1,4 @@
-## Cronômetro Desenvolvido com ReacJS
+## Cronômetro Desenvolvido com ReactJS
 
 ![Chronometer](https://github.com/MatheusMdn/chronometer/blob/master/src/assets/chonometer.png)
 
